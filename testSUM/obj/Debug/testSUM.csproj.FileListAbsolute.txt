@@ -1,0 +1,9 @@
+c:\users\xu\documents\visual studio 2012\Projects\testSUM\testSUM\bin\Debug\testSUM.exe.config
+c:\users\xu\documents\visual studio 2012\Projects\testSUM\testSUM\bin\Debug\testSUM.exe
+c:\users\xu\documents\visual studio 2012\Projects\testSUM\testSUM\bin\Debug\testSUM.pdb
+c:\users\xu\documents\visual studio 2012\Projects\testSUM\testSUM\obj\Debug\testSUM.csprojResolveAssemblyReference.cache
+c:\users\xu\documents\visual studio 2012\Projects\testSUM\testSUM\obj\Debug\testSUM.Form1.resources
+c:\users\xu\documents\visual studio 2012\Projects\testSUM\testSUM\obj\Debug\testSUM.Properties.Resources.resources
+c:\users\xu\documents\visual studio 2012\Projects\testSUM\testSUM\obj\Debug\testSUM.csproj.GenerateResource.Cache
+c:\users\xu\documents\visual studio 2012\Projects\testSUM\testSUM\obj\Debug\testSUM.exe
+c:\users\xu\documents\visual studio 2012\Projects\testSUM\testSUM\obj\Debug\testSUM.pdb
